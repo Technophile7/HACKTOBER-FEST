@@ -47,7 +47,7 @@ int main()
           break;
         default:
           cout<<"\n\nWrong Choice!!! Try Again.";
-     }
+     }//hacktober fun
   }while(ch!=4);
   return 0;
 }

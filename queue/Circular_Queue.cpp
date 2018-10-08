@@ -32,7 +32,7 @@ int main()
      cout<<"\n1. Insert\n2. Delete\n3. Display\n4. Exit\n\nEnter Your Choice: ";
      cin>>ch;
      switch(ch)
-     {
+     {//hacktober fun
         case 1:
           cqobj.insertion();
           cqobj.display();

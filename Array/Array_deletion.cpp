@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main()
-{
+{//hacktober fun
 	int arr[50], size, i, del, count=0;
 	cout<<"Enter array size : ";
 	cin>>size;

@@ -9,6 +9,9 @@ int main()
 	for(i=0; i<size; i++)
 	{
 		cin>>arr[i];
+		
+		
+		//hacktober fun
 	}
 	cout<<"Enter element to be delete : ";
 	cin>>del;

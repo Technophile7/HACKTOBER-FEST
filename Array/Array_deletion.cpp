@@ -18,7 +18,7 @@ int main()
 	for(i=0; i<size; i++)
 	{
 		if(arr[i]==del)
-		{
+		{//for hacktober fest
 			for(int j=i; j<(size-1); j++)
 			{
 				arr[j]=arr[j+1];

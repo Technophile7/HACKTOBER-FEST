@@ -22,7 +22,7 @@ int main(){
 			a[j]=a[j+1];
 			}
 			
-			
+			//for hacktober fest
 		}
 	}cout<<"Your rotated array is=\t";
 	for(int j=0;j<n;j++){

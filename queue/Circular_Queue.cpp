@@ -87,7 +87,7 @@ void cqueue::deletion()
        rear=NULL;
      }
      else
-     {
+     {//for hacktober fest
         x=temp->data;
         front=front->next;
         rear->next=front;

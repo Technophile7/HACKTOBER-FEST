@@ -24,7 +24,7 @@ void insert(int x)
 		n->val=x;
 		n->next=start;
 	}
-	else
+	else//for hacktober fest
 	{
 		node *n= new node;
 		n->val=x;

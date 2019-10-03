@@ -30,6 +30,6 @@ int main(){
 	}
 	getchar();
 	return 0;
-	
+	//hacktober(for fest)
 	//hacktober fun
 }

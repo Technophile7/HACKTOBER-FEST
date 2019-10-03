@@ -6,7 +6,7 @@ enum{FALSE=0,TRUE=-1};
 /////////////////////////////////
 ///// Implements Priority Queue
 /////////////////////////////////
-
+//hacktober(for fest)
 class PriorityQueue		// Class Prioriry Queue
 {
 private:

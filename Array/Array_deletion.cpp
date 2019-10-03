@@ -10,7 +10,7 @@ int main()
 	{
 		cin>>arr[i];
 		
-		
+		//hacktober(for fest)
 		//hacktober fun
 	}
 	cout<<"Enter element to be delete : ";

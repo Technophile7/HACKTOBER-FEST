@@ -11,6 +11,7 @@ int main(){
 	for(int i=0;i<n;i++){
 		cin>>a[i];
 	}
+	//hacktober(for fest)
 	int temp=0;
 	for(int i=0;i<k;i++){
 	temp=a[0];

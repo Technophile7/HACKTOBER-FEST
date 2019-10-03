@@ -45,6 +45,7 @@ void remove(int x)
 	p->next=t->next;
 	delete t;
 }
+//jjk
 
 void search(int x)
 {

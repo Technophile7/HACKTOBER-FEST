@@ -66,7 +66,7 @@ void search(int x)
 		cout<<"\nNot Found";
 	}
 }
-//hacktober fun
+//hacktober
 void show()
 {
 	node *t=start;

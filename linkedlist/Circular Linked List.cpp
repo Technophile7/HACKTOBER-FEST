@@ -32,6 +32,7 @@ void insert(int x)
 		n->next=start;
 	}
 }
+//hacktober fun
 
 void remove(int x)
 {

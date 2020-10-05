@@ -31,6 +31,7 @@ void insert(int x)
 		start=n;
 		n->next=start;
 	}
+	//hacktober fun
 }
 //hacktober fun
 

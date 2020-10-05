@@ -7,6 +7,8 @@ int main()
 	cin>>size;
 	cout<<"Enter array elements : ";
 	for(i=0; i<size; i++)
+		
+		//hacktober fun
 	{
 		cin>>arr[i];
 		

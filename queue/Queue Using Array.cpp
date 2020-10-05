@@ -37,7 +37,7 @@ void Deque()
 
 
 }
-
+//hacktober fun
 void show()
 {
 	for (int i = front; i < rear; i++)

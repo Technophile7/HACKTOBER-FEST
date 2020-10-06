@@ -35,6 +35,8 @@ void insert(int x)
 }
 //hacktober fun
 
+//hacktober fun
+
 void remove(int x)
 {
 	node *t=start;

@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//hacktober(for fest)
 struct node
 {//hacktober fun
 	int val;
